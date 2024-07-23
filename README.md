@@ -2,6 +2,9 @@
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hollingerj/R-Machine-Learning.git/main)
 
+Based on Tutorial found here: https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
+Tutorial by Jason Brownlee, PhD
+
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
